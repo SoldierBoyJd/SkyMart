@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="8" fill="#D9FF00"/>
-  <path d="M16 6l3 7h7l-6 4 2 7-6-4-6 4 2-7-6-4h7z" fill="#0B0B0B"/>
-</svg>
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" class="text-void text-base" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M13 10H20L11 23V14H4L13 1V10Z"></path></svg>
